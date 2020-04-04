@@ -1,7 +1,6 @@
-# ejercicio-alumno
+# Ejercicio: implementar doble y cuadruple (usando doble)
 
 ## Integrantes
 
-- integrante1 (usuario github)
-- integrante2 (usuario github)
+- integrante1 federicomarkus
 ...
