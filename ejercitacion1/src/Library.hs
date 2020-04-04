@@ -1,6 +1,8 @@
 module Library where
 import PdePreludat
 
-doble numero = 2*numero
+doble:: Number -> Number
+doble = (2*)
 
-cuadruple numero = 2 * doble numero
+cuadruple:: Number -> Number
+cuadruple = doble.doble
